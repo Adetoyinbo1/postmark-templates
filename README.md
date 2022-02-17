@@ -1,6 +1,6 @@
 <img src="http://assets.wildbit.com/postmark/misc/templates-logo@2x.png" alt="Postmark Transactional Email Templates" width="148" height="148" align="right">
 
-# Postmark Transactional Email Templates
+## Postmark Transactional Email Templates
 Brought to you by
 <a href="http://postmarkapp.com"><img src="http://assets.wildbit.com/postmark/misc/postmark.svg" alt="Postmark"></a>
 
